@@ -1,0 +1,23 @@
+{
+  "name": "angry-bot-telegram",
+  "version": "1.0.0",
+  "description": "POC Angry bot telegram with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marandalucas/angry-bot-telegram.git"
+  },
+  "author": "marcos aranda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marandalucas/angry-bot-telegram/issues"
+  },
+  "homepage": "https://github.com/marandalucas/angry-bot-telegram#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
